@@ -11,5 +11,5 @@
 ![Static Badge](https://img.shields.io/badge/python-v3.9.7-green?label=python)
 ![Static Badge](https://img.shields.io/badge/poetry-grey)
 
-* [下載 Windows 執行檔(snake.exe)](https://github.com/snake_pygame/dist/snake.exe)
+* [下載 Windows 執行檔(snake.exe)](https://github.com/Yehdg/snake_pygame/dist/snake.exe)
 
