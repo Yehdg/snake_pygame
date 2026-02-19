@@ -1,0 +1,12 @@
+# 排除建構目錄和快取目錄的語言統計
+build/** linguist-generated=true
+dist/** linguist-generated=true
+__pycache__/** linguist-generated=true
+.mypy_cache/** linguist-generated=true
+.venv/** linguist-generated=true
+
+# 排除依賴鎖定檔案
+poetry.lock linguist-generated=true
+
+# PyInstaller spec 檔案
+*.spec linguist-generated=true

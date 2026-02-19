@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+.mypy_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 遊戲資料
+highscore.txt
+
+# 圖示檔案
+*.ico
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
